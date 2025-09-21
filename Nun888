@@ -5,3 +5,5 @@ http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=303630&extension=ts
 #EXTINF:-1, HIN
 http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=282231&extension=ts&play_token=dZNIS5tJjD
 
+#EXTINF:-1, HI
+http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=276916&extension=ts&play_token=fn1C8km6NH
