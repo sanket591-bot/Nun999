@@ -7,3 +7,9 @@ http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=282231&extension=ts
 
 #EXTINF:-1, HI
 http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=276916&extension=ts&play_token=fn1C8km6NH
+
+#EXTINF:-1, FAST HI
+http://fastopen.live:8080/liVLBGhg7A/ZEHYhl3v6K/79294
+
+
+#EXTINF:-1, EN
