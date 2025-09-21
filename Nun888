@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1, HIN
+#EXTINF:-1, AD
 http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=303630&extension=ts&play_token=LbFUISBA3E
+
+#EXTINF:-1, HIN
+http://sup-4k.org/play/live.php?mac=00:1a:79:00:24:25&stream=282231&extension=ts&play_token=dZNIS5tJjD
 
