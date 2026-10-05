@@ -12,15 +12,15 @@ https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
 
 #EXTINF:-1  ,STAR SPORTS HINDI
 http://103.119.94.1:7080/play/a0l1/index.m3u8
-#EXTINF:-1 ,SONY SPORTS Hindi
+#EXTINF:-1 ,SONY SPORTS HINDI
 http://103.119.94.1:7080/play/a08x/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" ,ZEE CINE CLASSIC
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 ,BollyFlix
+#EXTINF:-1 ,BOLLYFLIX
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
-#EXTINF:-1  , BollyGold
+#EXTINF:-1  , BOLLYGOLD
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1  ,SHEMAROO BOLLYWOOD 2
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
