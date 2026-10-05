@@ -19,6 +19,18 @@ https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
+#EXTINF:-1   tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+https://delta45tatasky.akamaized.net/out/i/1633.mpd
+
+
+
+
+
+
+
+
 
 
 
