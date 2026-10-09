@@ -13,7 +13,7 @@ https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
 #EXTINF:-1  ,STAR SPORTS
 http://103.31.103.218:4000/play/a001/index.m3u8
 #EXTINF:-1 ,SONY SPORTS HINDI
-http://103.119.94.1:7080/play/a08x/index.m3u8
+http://103.31.103.218:4000/play/a00r/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" ,ZEE CINE CLASSIC
