@@ -12,8 +12,7 @@ https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
 
 #EXTINF:-1  ,STAR SPORTS
 http://103.31.103.218:4000/play/a001/index.m3u8
-#EXTINF:-1 ,SONY SPORTS HINDI
-http://103.31.103.218:4000/play/a00r/index.m3u8
+
 #EXTINF:-1 , TEN SPORTS
 http://115.42.65.142:8000/play/a011/index.m3u8
 #EXTINF:-1 , TEN CRICKET
