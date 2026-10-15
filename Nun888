@@ -1,4 +1,4 @@
-#EXTM3U    
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/in.xml.gz"  
 
 #EXTINF:-1, TV9 BHARATVARSH 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_480p/chunks.m3u8
