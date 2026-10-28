@@ -20,7 +20,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
 
 #EXTINF:-1  ,STAR SPORTS
-http://103.31.103.218:4000/play/a001/index.m3u8
+http://tkiptv.net/play/live.php?mac=00:1a:79:a2:b5:c4&stream=339492&extension=ts
 
 #EXTINF:-1 , TEN SPORTS
 http://115.42.65.142:8000/play/a011/index.m3u8
