@@ -33,7 +33,7 @@ https://amg30820-amg30820c3-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlis
 
 
 
-EXTINF:-1 group-title="CRlCKET"   ,STAR SPORTS
+#EXTINF:-1 group-title="CRlCKET"   ,STAR SPORTS
 http://tkiptv.net/play/live.php?mac=00:1a:79:a2:b5:c4&stream=339492&extension=ts
 
 #EXTINF:-1 group-title="CRlCKET"   , SONY TEN 3
