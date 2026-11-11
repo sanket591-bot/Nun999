@@ -3,12 +3,7 @@
 
 
 
-#EXTINF:-1 group-title="MOVIES24/7" , Interstellar 
-https://pixeldrain.dev/api/file/3iLt4W4c?download
-#EXTINF:-1 group-title="MOVIES24/7" , DHURANDHAR 2
-https://pixeldrain.dev/api/file/D5AqqWuu?download
-#EXTINF:-1 group-title="MOVIES24/7" , Ink
-https://visionbeats.keralive.workers.dev/Visionbeats/tracks-v1a1/mono.m3u8?wtoken=bliscdn_secure_1985
+
 
 
 
@@ -22,13 +17,8 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1   , SHEMAROO SONGS
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/manifest/2.m3u8
 
-#EXTINF:-1  ,STAR SPORTS
-http://tkiptv.net/play/live.php?mac=00:1a:79:a2:b5:c4&stream=339492&extension=ts
 
-#EXTINF:-1 , SONY TEN 3
-http://tkiptv.net/play/live.php?mac=00:1a:79:a2:b5:c4&stream=339493&extension=ts
-#EXTINF:-1 , TEN CRICKET
-http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" ,ZEE CINE CLASSIC
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 ,BOLLYFLIX
@@ -41,6 +31,13 @@ https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 https://amg30820-amg30820c3-amgplt0173.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30820-amg30820c3-amgplt0173/playlist.m3u8
 
 
+
+
+EXTINF:-1 group-title="CRlCKET"   ,STAR SPORTS
+http://tkiptv.net/play/live.php?mac=00:1a:79:a2:b5:c4&stream=339492&extension=ts
+
+#EXTINF:-1 group-title="CRlCKET"   , SONY TEN 3
+http://tkiptv.net/play/live.php?mac=00:1a:79:a2:b5:c4&stream=339493&extension=ts
 
 
 
