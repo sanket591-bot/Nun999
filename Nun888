@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/in.xml.gz"  
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
-#EXTINF:-1  group-title="MOVIES24"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star 
-https://delta45tatasky.akamaized.net/out/i/1630.mpd
+
 
 
 #EXTINF:-1, group-title="MOVIE CINEMA" ,the Vvaan hindi
